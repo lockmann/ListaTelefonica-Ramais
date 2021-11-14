@@ -1,0 +1,62 @@
+*{ /* zerando as propriedades gerias */
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-size: 14px;
+	background-color: #F8F9FA;
+}
+
+header{
+	background-color: #fff;
+}
+
+.color-lock {
+	color: #004479;
+}
+
+.bg-lock {
+	background-color: #004479;
+	color: #fff; 
+}
+
+.bg-lock a{
+	background-color: #004479;
+	color: #fff; 
+	padding: 8px;
+}
+
+.bd{
+	margin-top: 142px;
+}
+
+.abc a{
+	padding: 9px;
+	color: #004479;
+	list-style: none;
+}
+.abc a:hover{
+	color: #ffffff;
+	background-color:#004479 ;
+}
+
+
+.border-lock{
+	border-color: #004479;
+}
+
+.border-home {
+	border: 1px solid;
+	border-top: 0;
+	border-bottom: 0;
+	border-color: #004479;
+}
+
+.container p svg {
+	color: #004479;
+}
+.line{
+	line-height: 23px;
+}

@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color:#F8F9FA; 
+}
+
+.bar-left{
+	position: fixed;
+	z-index: 999;
+	height: 100vh;
+	background-color: #004479;
+	width: 15vw;
+}
+
+.main{
+	margin-left:15vw;
+	width: 100vw;
+	background-color: #F8F9FA;
+}
+
+.perfil{
+	width: 100%;
+}
+
+.avatar{
+	background-image: url();
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	width: 100px;
+	height: 100px;
+
+	border-radius: 100%;
+	margin:0 auto;
+}
+
+.avatar img {
+	width: 90px;
+	height: 130px;
+}
+
+.perfil hr{
+	width: 80%;
+}
+
+.menu ul {
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul a li{
+	color: #F8F9FA;
+	list-style: none;
+	text-indent: 20px;
+  	line-height: 40px;
+}
+
+.menu ul a:hover {
+	text-decoration: none;
+}
+
+.menu ul a li:hover {
+	color:  #343a40;
+	text-decoration: none;
+	background-color: #F8F9FA;
+}
+
+.name-page a svg{
+	color:#004479;
+}
+
+form label {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.form-inline label {
+	display: inline-block;
+}
+
+.lista button{
+	border: none;
+	background: none;
+	padding: 0;
+}
+
+.lista button:hover{
+	color: #004479;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.icon svg, .icon p{
+	color:#004479;
+}
+
