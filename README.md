@@ -8,7 +8,7 @@ Disponibiliza um painel administrativo para controle das informações.
 usuário: dev
 senha: desenvolvedor
 
-Acesse o projeto (Apenas Desktop)
+Acesse a demo do projeto (Apenas Desktop)
 https://henriquelockmann.com.br/ListaTelefonica
 
 
