@@ -22,7 +22,7 @@ include('header.php');
 					?>
 				</div>
 				<div id="footer" class="text-center border-top p-3">
-					Copyright © <?php echo date("Y"); ?> - Desenvolvido por Henrique Lockmann
+					Copyright © <?php echo date("Y"); ?> - <a href="https://henriquelockmann.com.br">Desenvolvido por Henrique Lockmann</a>
 				</div>
 			</div>
 		</div>
